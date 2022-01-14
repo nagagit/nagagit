@@ -1,6 +1,6 @@
 <h1>Crypto-TradingBot</h1>
 <p>Uses Binance API for market scan, limit buy/sell trade submits.</p>
-<h3>Alogorithm follows below</h3>
+<h3>Process flow</h3>
 <ul>
 <li>Gets all assets</li>
 <li>For each asset</li>
